@@ -1,4 +1,4 @@
-class CHomPOriginal < Formula
+class ChompOriginal < Formula
   desc "The Original CHomP Software"
   homepage "http://chomp.rutgers.edu/Projects/Computational_Homology/OriginalCHomP/software/"
   url "http://chomp.rutgers.edu/Projects/Computational_Homology/OriginalCHomP/download/chompfull_mac64.zip"
