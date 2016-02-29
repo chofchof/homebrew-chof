@@ -20,6 +20,7 @@ class ChompOriginal < Formula
       "bin/mwcircle", "bin/mwnum",      "bin/pgm2pset", "bin/pset2bin", \
       "bin/pset2bmp", "bin/psetcomm",   "bin/psetconn", "bin/psetglue", \
       "bin/simbetti", "bin/simchain",   "bin/simreduc"
+    pkgshare.install "examples", "python"
   end
 
   test do
