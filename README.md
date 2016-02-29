@@ -1,13 +1,13 @@
 # Homebrew ChoF
 ## How do I install these formulae?
-`brew install homebrew/chof/<formula>`
+`brew install chofchof/chof/<formula>`
 
-Or `brew tap homebrew/chof` and then `brew install <formula>`.
+Or `brew tap chofchof/chof` and then `brew install <formula>`.
 
 Or install via URL (which will not receive updates):
 
 ```
-brew install https://raw.githubusercontent.com/Homebrew/homebrew-chof/master/<formula>.rb
+brew install https://raw.githubusercontent.com/chofchof/homebrew-chof/master/<formula>.rb
 ```
 
 ## Documentation
